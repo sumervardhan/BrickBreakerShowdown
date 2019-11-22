@@ -1,0 +1,51 @@
+Proposed Game: A variant of Breakout called 'Brick Breaker Showdown'
+
+At least one variant of Breakout that you thought was interesting and what was interesting about it:
+
+Super Breakout: I really liked the concept of power-ups falling out of broken bricks. I plan to incorporate this in my
+game.
+
+Brick Breaker Escape: This game implemented different styles of bricks with different amounts of 'health' and different
+'breaking' animations. I thought this was pretty cool and will incorporate a variety of brick styles and breaking
+animations in my game.
+
+Warlords: I liked the multiplayer aspect of the game and would like to incorporate the idea of multiplayer in a
+different way. Instead of four players each protecting their own bricks, I think it would be more interesting if both
+players were destroying the same set of bricks, fighting for powerups, aiming to get a higher score before the level
+ends. Each player has their own 'main' ball and if they drop it, they lose a life. As soon as one player is out of lives
+(or if the game is out of levels), the game is over and the player the higher score wins.
+
+
+A general description of the different levels you intend to build (perhaps with "pictures" of the brick configurations)
+
+I have uploaded a pdf with layouts for three levels I plan to create. Please check the same folder (doc) in the repo.
+
+Several different bricks you want to create
+
+'Regular' brick - Red breaking animation
+'Double points' brick - Blue breaking animation
+'Double HP Regular' brick - Red breaking animation each time brick is hit
+'Double HP double points' brick - Blue breaking animation each time brick is hit
+'Indestructible' brick - animation that shows that the brick cannot break
+
+Several different power ups you want to create
+
+Beneficial Power-Ups:                           Hindering Power Ups:
+
+Two Balls                                       Shortened Paddle
+Extended Paddle                                 Increased Ball Speed
+Extra Life                                      Bombs (claim a life if collected)
+Freeze - Pauses other player's paddle and ball
+Double damage
+
+Several different cheat keys you are planning to include
+
+Skip - Press a key to immediately clear a level
+Immunity - Press a key to put a protective barrier up that prevents the balls from falling through
+Destroy - Press a key allowing you to a click on a brick to make it disappear
+
+Something extra you intend to add and why you think it is a substantial addition
+
+I believe my multiplayer twist to Breakout will allow me to change the game dynamic significantly.
+Today, multiplayer games seem to gain much more traction that single player ones and I think my variant will add
+an interesting element to this old classic.
